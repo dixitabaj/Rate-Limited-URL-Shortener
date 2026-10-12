@@ -1,6 +1,6 @@
 # Rate-Limited URL Shortener with Analytics
 
-A full-stack web application that allows users to shorten long URLs, redirect using short aliases, and displays shorten URLSs click analytics for the last 7 day.
+A full-stack web application that allows users to shorten long URLs, redirect using short aliases, and displays shorten URLSs click analytics for the last 7 days.
 
 ## Features
 
